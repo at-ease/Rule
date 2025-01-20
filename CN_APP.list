@@ -6,12 +6,12 @@
 # UPDATED: 2024-07-03 16:16:41
 # HOST-SUFFIX: 9
 # TOTAL: 9
-HOST-SUFFIX,a-map.cn,GaoDe
-HOST-SUFFIX,a-map.co,GaoDe
-HOST-SUFFIX,a-map.link,GaoDe
-HOST-SUFFIX,a-map.vip,GaoDe
-HOST-SUFFIX,amap.com,GaoDe
-HOST-SUFFIX,amapauto.com,GaoDe
-HOST-SUFFIX,anav.com,GaoDe
-HOST-SUFFIX,autonavi.com,GaoDe
-HOST-SUFFIX,gaode.com,GaoDe
+HOST-SUFFIX,a-map.cn
+HOST-SUFFIX,a-map.co
+HOST-SUFFIX,a-map.link
+HOST-SUFFIX,a-map.vip
+HOST-SUFFIX,amap.com
+HOST-SUFFIX,amapauto.com
+HOST-SUFFIX,anav.com
+HOST-SUFFIX,autonavi.com
+HOST-SUFFIX,gaode.com
