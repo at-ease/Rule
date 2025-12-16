@@ -1,0 +1,9 @@
+# Apple Intelligence & Region Check
+HOST, guzzoni.apple.com, AppleAI
+HOST, apple-relay.apple.com, AppleAI
+HOST, apple-relay.fastly-edge.com, AppleAI
+HOST, apple-relay.cloudflare.com, AppleAI
+HOST, gateway.icloud.com, AppleAI
+HOST, cp4.cloudflare.com, AppleAI
+HOST, gspe1-ssl.ls.apple.com, AppleAI
+HOST, apps.mzstatic.com, AppleAI
