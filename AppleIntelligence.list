@@ -1,9 +1,9 @@
 # Apple Intelligence & Region Check
-host-suffix, guzzoni.apple.com, AppleAI
-host-suffix, apple-relay.apple.com, AppleAI
-host-suffix, apple-relay.fastly-edge.com, AppleAI
-host-suffix, apple-relay.cloudflare.com, AppleAI
-host-suffix, gateway.icloud.com, AppleAI
-host-suffix, cp4.cloudflare.com, AppleAI
-host-suffix, gspe1-ssl.ls.apple.com, AppleAI
-host-suffix, apps.mzstatic.com, AppleAI
+host-suffix, guzzoni.apple.com, 苹果智能
+host-suffix, apple-relay.apple.com, 苹果智能
+host-suffix, apple-relay.fastly-edge.com, 苹果智能
+host-suffix, apple-relay.cloudflare.com, 苹果智能
+host-suffix, gateway.icloud.com, 苹果智能
+host-suffix, cp4.cloudflare.com, 苹果智能
+host-suffix, gspe1-ssl.ls.apple.com, 苹果智能
+host-suffix, apps.mzstatic.com, 苹果智能
